@@ -9,7 +9,7 @@ use Time::HiRes qw(gettimeofday);
 my $scriptName = "perlSimpleBenchmark.pl";
 my $scriptVersion = "0.0.1";
 
-## 0.0.1 Switched to old style file handles for backwards compatibility
+## 0.0.1 Switched to old style file handles for backwards compatibility.
 
 # 	perlSimpleBenchmark is a quick way of benchmarking machines that
 # 	have perl installed.  It is meant for comparisons between machines
