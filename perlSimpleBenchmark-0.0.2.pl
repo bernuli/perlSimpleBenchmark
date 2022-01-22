@@ -7,7 +7,7 @@ use Time::HiRes qw(gettimeofday);
 
 
 my $scriptName = "perlSimpleBenchmark.pl";
-my $scriptVersion = "0.0.1";
+my $scriptVersion = "0.0.2";
 
 ## 0.0.1 Switched to old style file handles for backwards compatibility.
 ## 0.0.2 Fixed incorrect escaping of CSV fields.  If field has a comma then enclose field in double quotes and escape existing double quotes with a double quote.
